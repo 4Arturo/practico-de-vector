@@ -1,0 +1,8 @@
+C:\Users\Usuario\Downloads\cosas\estructura de datos\estructura de datos\funciones v2\AppVector\AppVector\bin\Debug\AppVector.exe
+C:\Users\Usuario\Downloads\cosas\estructura de datos\estructura de datos\funciones v2\AppVector\AppVector\bin\Debug\AppVector.pdb
+C:\Users\Usuario\Downloads\cosas\estructura de datos\estructura de datos\funciones v2\AppVector\AppVector\obj\x86\Debug\AppVector.frmvector.resources
+C:\Users\Usuario\Downloads\cosas\estructura de datos\estructura de datos\funciones v2\AppVector\AppVector\obj\x86\Debug\AppVector.Properties.Resources.resources
+C:\Users\Usuario\Downloads\cosas\estructura de datos\estructura de datos\funciones v2\AppVector\AppVector\obj\x86\Debug\AppVector.csproj.GenerateResource.Cache
+C:\Users\Usuario\Downloads\cosas\estructura de datos\estructura de datos\funciones v2\AppVector\AppVector\obj\x86\Debug\AppVector.exe
+C:\Users\Usuario\Downloads\cosas\estructura de datos\estructura de datos\funciones v2\AppVector\AppVector\obj\x86\Debug\AppVector.pdb
+C:\Users\Usuario\Downloads\cosas\estructura de datos\estructura de datos\funciones v2\AppVector\AppVector\obj\x86\Debug\AppVector.csprojResolveAssemblyReference.cache
